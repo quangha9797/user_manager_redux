@@ -9,6 +9,7 @@ export default class App extends Component {
         <h1 className="display-4 text-center">Quản Lý Người dùng</h1>
         <Modal />
         <UserList />
+        <span>hihi App.js file</span>
       </div>
     )
   }
